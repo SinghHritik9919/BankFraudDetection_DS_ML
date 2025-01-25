@@ -1,6 +1,6 @@
 # 🚨 Fraud Detection Using Machine Learning
 
-## 📄 Project Overview
+## 📄 Project Overview:
 This project aims to develop machine learning models to detect fraudulent transactions from a dataset of bank transactions. The dataset contains records of transactions with features such as transaction amount, account balance, transaction hour, and customer behavior. By analyzing these features, we aim to classify transactions as **fraudulent** or **non-fraudulent**.
 
 ## 📊 Dataset
